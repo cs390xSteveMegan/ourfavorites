@@ -6,3 +6,4 @@ tacos
 steak
 french fries
 grilled cheese
+avocado
