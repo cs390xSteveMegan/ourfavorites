@@ -6,3 +6,5 @@ tacos
 steak
 french fries
 grilled cheese
+avocado
+peanut butter
