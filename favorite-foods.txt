@@ -3,3 +3,6 @@ ice cream
 burritos
 nachos
 tacos
+steak
+french fries
+
